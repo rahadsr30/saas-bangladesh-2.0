@@ -41,7 +41,7 @@ export function Footer() {
             <li>
               <a
                 className="text-gray-300 hover:text-primary transition-colors"
-                href="#agenda"
+                href="#agendas"
               >
                 Agenda
               </a>
