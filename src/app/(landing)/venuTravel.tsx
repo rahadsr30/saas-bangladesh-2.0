@@ -82,7 +82,7 @@ export default function VenuTravel() {
               </Button>
             </div>
           </div>
-          <div className="bg-white rounded-xl p-4 shadow-lg">
+          <div className="bg-white rounded-xl p-4 shadow-[0px_0px_12px_0px_rgba(4,14,76,0.08)]">
             <Image src={hotel1} alt="hotel1" className="w-full h-auto" />
             <div className="space-y-1 md:mt-4 mt-2 ">
               <h2 className="text-lg md:text-xl font-bold text-[#4B4B53]">
@@ -93,7 +93,7 @@ export default function VenuTravel() {
               </p>
             </div>
           </div>
-          <div className="bg-white rounded-xl p-4 shadow-lg">
+          <div className="bg-white rounded-xl p-4 shadow-[0px_0px_12px_0px_rgba(4,14,76,0.08)]">
             <Image src={hotel2} alt="hotel2" className="w-full h-auto" />
             <div className="space-y-1 md:mt-4 mt-2 ">
               <h2 className="text-lg md:text-xl font-bold text-[#4B4B53]">
@@ -105,7 +105,7 @@ export default function VenuTravel() {
               </p>
             </div>
           </div>
-          <div className="bg-white rounded-xl p-4 shadow-lg">
+          <div className="bg-white rounded-xl p-4 shadow-[0px_0px_12px_0px_rgba(4,14,76,0.08)]">
             <Image src={hotel3} alt="hotel3" className="w-full h-auto" />
             <div className="space-y-1 md:mt-4 mt-2 ">
               <h2 className="text-lg md:text-xl font-bold text-[#4B4B53]">

@@ -11,7 +11,7 @@ export default function Hero() {
       <Navbar />
       <div className="container py-section xl:py-44">
         <div className="mx-auto flex w-full flex-col items-center ">
-          <h1 className="text-white font-bold text-2xl md:text-6xl">
+          <h1 className="text-white font-bold text-xl md:text-6xl">
             SaaS <span className="text-[#FFDA24]">Bangladesh</span> Event 2024
           </h1>
           <p className="text-hero mt-2 text-center text-[#E5E6E8] max-w-[900px]">
@@ -20,7 +20,7 @@ export default function Hero() {
             of SaaS.
           </p>
 
-          <div className="flex gap-5 mt-6">
+          <div className="flex flex-col md:flex-row gap-5 mt-6">
             <p className="text-white flex items-center justify-center gap-2 font-semibold text-lg md:text-2xl">
               <BsCalendar2Check />
               December 2024
